@@ -1,5 +1,5 @@
 # Website-sessions-analysis
-|Google sheets|
+| Google sheets |
 ### Project Background
 
 The goal of this project was to analyze website user distribution and website sessions metrics, including: 
