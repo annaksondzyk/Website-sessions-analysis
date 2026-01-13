@@ -18,7 +18,7 @@ Google Sheets
 
 ### Links
 
-https://docs.google.com/spreadsheets/d/1Q8eQDGhbK8oD1UNp3pV5ejdh4UjNTuBBEWXChtYru9U/edit?gid=1565474615#gid=1565474615
+[Google Sheets](https://docs.google.com/spreadsheets/d/1Q8eQDGhbK8oD1UNp3pV5ejdh4UjNTuBBEWXChtYru9U/edit?gid=1565474615#gid=1565474615)
 
 ### Summary of results
 
